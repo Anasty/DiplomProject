@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bf250b2fd91be5a4ea34385a3957661a
+timeCreated: 1560764396
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: S721-Script-Two
+  fontNames:
+  - S721-Script-Two
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

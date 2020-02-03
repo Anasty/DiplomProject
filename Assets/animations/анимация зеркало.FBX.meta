@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: e6aaba286a9357f478807b439cda3b37
+timeCreated: 1557145156
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Object216_Part_10_Part_1
+    100002: Object216_Part_10_Part_10
+    100004: Object216_Part_10_Part_11
+    100006: Object216_Part_10_Part_12
+    100008: Object216_Part_10_Part_13
+    100010: Object216_Part_10_Part_14
+    100012: Object216_Part_10_Part_15
+    100014: Object216_Part_10_Part_2
+    100016: Object216_Part_10_Part_3
+    100018: Object216_Part_10_Part_4
+    100020: Object216_Part_10_Part_5
+    100022: Object216_Part_10_Part_6
+    100024: Object216_Part_10_Part_7
+    100026: Object216_Part_10_Part_8
+    100028: Object216_Part_10_Part_9
+    100030: Object216_Part_12
+    100032: Object216_Part_15
+    100034: Object216_Part_9_Part_1
+    100036: Object216_Part_9_Part_10
+    100038: Object216_Part_9_Part_2
+    100040: Object216_Part_9_Part_3
+    100042: Object216_Part_9_Part_4
+    100044: Object216_Part_9_Part_5
+    100046: Object216_Part_9_Part_6
+    100048: Object216_Part_9_Part_7
+    100050: Object216_Part_9_Part_8
+    100052: Object216_Part_9_Part_9
+    100054: Object217
+    100056: //RootNode
+    400000: Object216_Part_10_Part_1
+    400002: Object216_Part_10_Part_10
+    400004: Object216_Part_10_Part_11
+    400006: Object216_Part_10_Part_12
+    400008: Object216_Part_10_Part_13
+    400010: Object216_Part_10_Part_14
+    400012: Object216_Part_10_Part_15
+    400014: Object216_Part_10_Part_2
+    400016: Object216_Part_10_Part_3
+    400018: Object216_Part_10_Part_4
+    400020: Object216_Part_10_Part_5
+    400022: Object216_Part_10_Part_6
+    400024: Object216_Part_10_Part_7
+    400026: Object216_Part_10_Part_8
+    400028: Object216_Part_10_Part_9
+    400030: Object216_Part_12
+    400032: Object216_Part_15
+    400034: Object216_Part_9_Part_1
+    400036: Object216_Part_9_Part_10
+    400038: Object216_Part_9_Part_2
+    400040: Object216_Part_9_Part_3
+    400042: Object216_Part_9_Part_4
+    400044: Object216_Part_9_Part_5
+    400046: Object216_Part_9_Part_6
+    400048: Object216_Part_9_Part_7
+    400050: Object216_Part_9_Part_8
+    400052: Object216_Part_9_Part_9
+    400054: Object217
+    400056: //RootNode
+    2300000: Object216_Part_10_Part_1
+    2300002: Object216_Part_10_Part_10
+    2300004: Object216_Part_10_Part_11
+    2300006: Object216_Part_10_Part_12
+    2300008: Object216_Part_10_Part_13
+    2300010: Object216_Part_10_Part_14
+    2300012: Object216_Part_10_Part_15
+    2300014: Object216_Part_10_Part_2
+    2300016: Object216_Part_10_Part_3
+    2300018: Object216_Part_10_Part_4
+    2300020: Object216_Part_10_Part_5
+    2300022: Object216_Part_10_Part_6
+    2300024: Object216_Part_10_Part_7
+    2300026: Object216_Part_10_Part_8
+    2300028: Object216_Part_10_Part_9
+    2300030: Object216_Part_12
+    2300032: Object216_Part_15
+    2300034: Object216_Part_9_Part_1
+    2300036: Object216_Part_9_Part_10
+    2300038: Object216_Part_9_Part_2
+    2300040: Object216_Part_9_Part_3
+    2300042: Object216_Part_9_Part_4
+    2300044: Object216_Part_9_Part_5
+    2300046: Object216_Part_9_Part_6
+    2300048: Object216_Part_9_Part_7
+    2300050: Object216_Part_9_Part_8
+    2300052: Object216_Part_9_Part_9
+    2300054: Object217
+    3300000: Object216_Part_10_Part_1
+    3300002: Object216_Part_10_Part_10
+    3300004: Object216_Part_10_Part_11
+    3300006: Object216_Part_10_Part_12
+    3300008: Object216_Part_10_Part_13
+    3300010: Object216_Part_10_Part_14
+    3300012: Object216_Part_10_Part_15
+    3300014: Object216_Part_10_Part_2
+    3300016: Object216_Part_10_Part_3
+    3300018: Object216_Part_10_Part_4
+    3300020: Object216_Part_10_Part_5
+    3300022: Object216_Part_10_Part_6
+    3300024: Object216_Part_10_Part_7
+    3300026: Object216_Part_10_Part_8
+    3300028: Object216_Part_10_Part_9
+    3300030: Object216_Part_12
+    3300032: Object216_Part_15
+    3300034: Object216_Part_9_Part_1
+    3300036: Object216_Part_9_Part_10
+    3300038: Object216_Part_9_Part_2
+    3300040: Object216_Part_9_Part_3
+    3300042: Object216_Part_9_Part_4
+    3300044: Object216_Part_9_Part_5
+    3300046: Object216_Part_9_Part_6
+    3300048: Object216_Part_9_Part_7
+    3300050: Object216_Part_9_Part_8
+    3300052: Object216_Part_9_Part_9
+    3300054: Object217
+    4300000: Object216_Part_12
+    4300002: Object216_Part_15
+    4300004: Object216_Part_10_Part_1
+    4300006: Object216_Part_10_Part_2
+    4300008: Object216_Part_10_Part_3
+    4300010: Object216_Part_10_Part_4
+    4300012: Object216_Part_10_Part_5
+    4300014: Object216_Part_10_Part_6
+    4300016: Object216_Part_10_Part_7
+    4300018: Object216_Part_10_Part_8
+    4300020: Object216_Part_10_Part_9
+    4300022: Object216_Part_10_Part_10
+    4300024: Object216_Part_10_Part_11
+    4300026: Object216_Part_10_Part_12
+    4300028: Object216_Part_10_Part_13
+    4300030: Object216_Part_10_Part_14
+    4300032: Object216_Part_10_Part_15
+    4300034: Object216_Part_9_Part_1
+    4300036: Object216_Part_9_Part_2
+    4300038: Object216_Part_9_Part_3
+    4300040: Object216_Part_9_Part_4
+    4300042: Object216_Part_9_Part_5
+    4300044: Object216_Part_9_Part_6
+    4300046: Object216_Part_9_Part_7
+    4300048: Object216_Part_9_Part_8
+    4300050: Object216_Part_9_Part_9
+    4300052: Object216_Part_9_Part_10
+    4300054: Object217
+    7400000: Boo
+    7400002: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Boo
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Object216_Part_9_Part_1
+        weight: 1
+      - path: Object216_Part_9_Part_2
+        weight: 1
+      - path: Object216_Part_9_Part_3
+        weight: 1
+      - path: Object216_Part_9_Part_4
+        weight: 1
+      - path: Object216_Part_9_Part_5
+        weight: 1
+      - path: Object216_Part_9_Part_6
+        weight: 1
+      - path: Object216_Part_9_Part_7
+        weight: 1
+      - path: Object216_Part_9_Part_8
+        weight: 1
+      - path: Object216_Part_9_Part_9
+        weight: 1
+      - path: Object216_Part_9_Part_10
+        weight: 1
+      - path: Object216_Part_10_Part_1
+        weight: 1
+      - path: Object216_Part_10_Part_2
+        weight: 1
+      - path: Object216_Part_10_Part_3
+        weight: 1
+      - path: Object216_Part_10_Part_4
+        weight: 1
+      - path: Object216_Part_10_Part_5
+        weight: 1
+      - path: Object216_Part_10_Part_6
+        weight: 1
+      - path: Object216_Part_10_Part_7
+        weight: 1
+      - path: Object216_Part_10_Part_8
+        weight: 1
+      - path: Object216_Part_10_Part_9
+        weight: 1
+      - path: Object216_Part_10_Part_10
+        weight: 1
+      - path: Object216_Part_10_Part_11
+        weight: 1
+      - path: Object216_Part_10_Part_12
+        weight: 1
+      - path: Object216_Part_10_Part_13
+        weight: 1
+      - path: Object216_Part_10_Part_14
+        weight: 1
+      - path: Object216_Part_10_Part_15
+        weight: 1
+      - path: Object216_Part_12
+        weight: 1
+      - path: Object216_Part_15
+        weight: 1
+      - path: Object217
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

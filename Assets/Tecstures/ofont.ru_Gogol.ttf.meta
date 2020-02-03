@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 08f86482e3762454a97a2f7bfb90482c
+timeCreated: 1560764613
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gogol
+  fontNames:
+  - Gogol
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
